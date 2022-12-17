@@ -1,0 +1,24 @@
+<resources>
+   <string name="app_name">Urja</string>
+   <string name="hint_email">Email</string>
+   <string name="hint_password">Password</string>
+   <string name="hint_user_name">Username</string>
+   <string name="hint_search">Search</string>
+   <string name="hint_tweet_text">What\'s Up?</string>
+
+   <string name="button_login">Login</string>
+   <string name="button_signup">Signup</string>
+   <string name="button_apply">Apply</string>
+   <string name="button_logout">Logout</string>
+
+   <string name="text_signup">No Account? Go to Signup</string>
+   <string name="text_login">Already have an account? Go to Login</string>
+
+   <string name="hello_blank_fragment">Hello blank fragment</string>
+
+   <string name="desc_user_logo">user logo</string>
+   <string name="desc_post_an_image">Post an Image</string>
+
+   <string name="titlebar_title_home">Home</string>
+   <string name="titlebar_title_my_activity">My Activity</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340969751111",
+    "project_id": "urja-87631",
+    "storage_bucket": "urja-87631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340969751111:android:9004f4601920ff506c6762",
+        "android_client_info": {
+          "package_name": "com.example.urja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340969751111-n9llsfsij9gsl0blh443e9pm06itmqjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDngDbi0CTr9MitShbRgblUSogaPJw7EYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340969751111-n9llsfsij9gsl0blh443e9pm06itmqjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
